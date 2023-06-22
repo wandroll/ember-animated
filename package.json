@@ -28,7 +28,8 @@
     "overrides": {
       "ember-modal-dialog": "4.0.0",
       "@types/ember": "4.0.0",
-      "@types/eslint": "8.4.1"
+      "@types/eslint": "8.4.1",
+      "ember-element-helper": "^0.6.1"
     }
   },
   "release-it": {
